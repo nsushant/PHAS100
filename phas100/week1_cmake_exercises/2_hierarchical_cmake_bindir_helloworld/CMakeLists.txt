@@ -11,4 +11,5 @@ project(minimal_helloworld
 # https://cmake.org/cmake/help/latest/variable/CMAKE_RUNTIME_OUTPUT_DIRECTORY.html
 # https://cmake.org/cmake/help/latest/variable/CMAKE_BINARY_DIR.html
 
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 add_subdirectory(src)
