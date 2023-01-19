@@ -1,0 +1,8 @@
+/Users/sushantnigudkar/desktop/phas100/phas100/week1_cmake_exercises/7_basic_lib/build_dir/CMakeFiles/edit_cache.dir
+/Users/sushantnigudkar/desktop/phas100/phas100/week1_cmake_exercises/7_basic_lib/build_dir/CMakeFiles/rebuild_cache.dir
+/Users/sushantnigudkar/desktop/phas100/phas100/week1_cmake_exercises/7_basic_lib/build_dir/src/CMakeFiles/say_hello.dir
+/Users/sushantnigudkar/desktop/phas100/phas100/week1_cmake_exercises/7_basic_lib/build_dir/src/CMakeFiles/edit_cache.dir
+/Users/sushantnigudkar/desktop/phas100/phas100/week1_cmake_exercises/7_basic_lib/build_dir/src/CMakeFiles/rebuild_cache.dir
+/Users/sushantnigudkar/desktop/phas100/phas100/week1_cmake_exercises/7_basic_lib/build_dir/src/greeting/CMakeFiles/greeting.dir
+/Users/sushantnigudkar/desktop/phas100/phas100/week1_cmake_exercises/7_basic_lib/build_dir/src/greeting/CMakeFiles/edit_cache.dir
+/Users/sushantnigudkar/desktop/phas100/phas100/week1_cmake_exercises/7_basic_lib/build_dir/src/greeting/CMakeFiles/rebuild_cache.dir

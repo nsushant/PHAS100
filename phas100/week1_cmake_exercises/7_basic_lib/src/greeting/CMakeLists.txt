@@ -11,7 +11,8 @@ add_library(greeting greeting.cpp)
 # If the header file is used both by the consuming target, and also directly included within our executable target (which consumes the library target), then it needs to be declared as PUBLIC
 # See: https://cmake.org/cmake/help/latest/command/target_include_directories.html
 
-target_include_directories(greeting PUBLIC greeting.h)
+target_include_directories(greeting PUBLIC include)
+
 
 target_compile_features(greeting PUBLIC cxx_std_17)
 set_target_properties(
