@@ -1,6 +1,6 @@
 add_executable(say_hello)
-target_sources(say_hello PRIVATE hello.cpp)
-target_include_directories(say_hello PRIVATE include)
+target_sources(say_hello PUBLIC hello.cpp)
+target_include_directories(say_hello PUBLIC include)
 
 # For modular code organisation, it is good practice to separate the library code from the application code. Hence, we place all the relevant source files of the `greeting` 'library' under the `greeting` sub-directory within the `src/` tree.
 # It is therefore, appropriate to define the build description of the `greeting` library in a separate CMakeLists.txt placed within the greeting subfolder.
