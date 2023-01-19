@@ -10,7 +10,7 @@ add_subdirectory(greeting)
 # After the `greeting` library has been built, it is required to inform CMake that our `say_hello` executable depends on it
 # Add the instruction to achieve this
 # See: https://cmake.org/cmake/help/latest/command/target_link_libraries.html
-target_lin_libraries(say_hello greeting)
+target_link_libraries(say_hello greeting)
 
 target_compile_features(say_hello PUBLIC cxx_std_17)
 set_target_properties(
