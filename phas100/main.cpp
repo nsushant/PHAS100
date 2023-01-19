@@ -6,9 +6,19 @@
 //
 
 #include <iostream>
+#include <vector>
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    std::cout << "Hello, World!\n";
+    
+    std::vector<int> items = {1,3,4,5};
+    
+    for (const auto &v: items ){
+        
+        std::cout << v << "\n";
+        
+    }
+    
+    
     return 0;
 }
