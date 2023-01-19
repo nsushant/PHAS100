@@ -1,0 +1,3 @@
+/Users/sushantnigudkar/desktop/phas100/phas100/week1_cmake_exercises/0_demo_minimal_cmake/build_dir/CMakeFiles/hello_world.dir
+/Users/sushantnigudkar/desktop/phas100/phas100/week1_cmake_exercises/0_demo_minimal_cmake/build_dir/CMakeFiles/edit_cache.dir
+/Users/sushantnigudkar/desktop/phas100/phas100/week1_cmake_exercises/0_demo_minimal_cmake/build_dir/CMakeFiles/rebuild_cache.dir
