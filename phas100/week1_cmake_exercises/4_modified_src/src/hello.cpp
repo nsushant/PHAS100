@@ -5,6 +5,7 @@ int main() {
 
     std::string_view course_greeting { "Welcome to PHAS0100" };
     std::cout << course_greeting << '\n';
+    std::cout << "The Shard";
 
     // Modify the source code here by adding a line of code to print another string.
     // e.g. print out your favourite London landmark.
