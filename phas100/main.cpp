@@ -11,7 +11,7 @@
 int main(int argc, const char * argv[]) {
     // insert code here...
     
-    std::vector<int> items = {1,3,4,5};
+    std::vector<int> items {1,3,4,5};
     
     for (const auto &v: items ){
         
