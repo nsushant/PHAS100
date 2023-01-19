@@ -8,8 +8,6 @@ add_library(greeting PRIVATE greeting.cpp)
 
 # The header file (greeting.h) included in the library's C++ source code (greeting.cpp) is placed within the `include` sub-directory relative to the current CMakeLists.txt.
 # Indicate to CMake this include dependency.
-add_subdirectory(include)
-
 # If the header file is used both by the consuming target, and also directly included within our executable target (which consumes the library target), then it needs to be declared as PUBLIC
 # See: https://cmake.org/cmake/help/latest/command/target_include_directories.html
 
