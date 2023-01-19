@@ -1,0 +1,5 @@
+/Users/sushantnigudkar/desktop/phas100/phas100/week1_cmake_exercises/4_modified_src/build_dir/CMakeFiles/edit_cache.dir
+/Users/sushantnigudkar/desktop/phas100/phas100/week1_cmake_exercises/4_modified_src/build_dir/CMakeFiles/rebuild_cache.dir
+/Users/sushantnigudkar/desktop/phas100/phas100/week1_cmake_exercises/4_modified_src/build_dir/src/CMakeFiles/hello_world.dir
+/Users/sushantnigudkar/desktop/phas100/phas100/week1_cmake_exercises/4_modified_src/build_dir/src/CMakeFiles/edit_cache.dir
+/Users/sushantnigudkar/desktop/phas100/phas100/week1_cmake_exercises/4_modified_src/build_dir/src/CMakeFiles/rebuild_cache.dir
