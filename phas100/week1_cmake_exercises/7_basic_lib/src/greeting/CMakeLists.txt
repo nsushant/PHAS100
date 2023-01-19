@@ -1,7 +1,7 @@
 # The `add_library()` instruction informs CMake that we are adding a library target (not a standalone executable target)
 # See: https://cmake.org/cmake/help/latest/command/add_library.html
 
-add_library(greeting PRIVATE greeting.cpp)
+add_library(greeting greeting.cpp)
 # Now, indicate to CMake, the C++ source code dependencies of this library target. 
 # If the source files are not used directly anywhere, but are only used in building the library, they can be made PRIVATE
 # See: https://cmake.org/cmake/help/latest/command/target_sources.html
