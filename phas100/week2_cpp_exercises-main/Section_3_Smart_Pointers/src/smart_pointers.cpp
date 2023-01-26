@@ -26,8 +26,8 @@ class Reporter
 };
 
 
-int main()
-{
 
-    return 0;
+std::unique_ptr<Reporter> take_pointer(std::unique_ptr<Reporter>&report){
+    std::unique_ptr<Reporter> rep2 = std::unique_ptr<Reporter>("new_rep");
+    return std::unique_ptr<Reporter>&rep2;
 }
