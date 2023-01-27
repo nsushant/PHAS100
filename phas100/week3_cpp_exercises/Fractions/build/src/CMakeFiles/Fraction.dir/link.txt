@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libFraction.a CMakeFiles/Fraction.dir/Fraction.cpp.o CMakeFiles/Fraction.dir/FractionException.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libFraction.a
