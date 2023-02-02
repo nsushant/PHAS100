@@ -28,6 +28,7 @@
 		1042FE9429794F83003D4207 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		1042FE9C297952E4003D4207 /* week1_cmake_exercises */ = {isa = PBXFileReference; lastKnownFileType = folder; path = week1_cmake_exercises; sourceTree = "<group>"; };
 		1042FEB42979E767003D4207 /* week2_cpp_exercises-main */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "week2_cpp_exercises-main"; sourceTree = "<group>"; };
+		10E53ED2298C2D9F001027DD /* week4_cpp_exercises */ = {isa = PBXFileReference; lastKnownFileType = folder; path = week4_cpp_exercises; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 		1042FE9329794F83003D4207 /* phas100 */ = {
 			isa = PBXGroup;
 			children = (
+				10E53ED2298C2D9F001027DD /* week4_cpp_exercises */,
 				1005FC0C2982D7A200233350 /* week3_cpp_exercises */,
 				1042FE9C297952E4003D4207 /* week1_cmake_exercises */,
 				1042FE9429794F83003D4207 /* main.cpp */,

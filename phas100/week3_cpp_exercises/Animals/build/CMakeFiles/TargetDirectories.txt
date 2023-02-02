@@ -1,0 +1,6 @@
+/Users/sushantnigudkar/desktop/phas100/phas100/week3_cpp_exercises/Animals/build/CMakeFiles/edit_cache.dir
+/Users/sushantnigudkar/desktop/phas100/phas100/week3_cpp_exercises/Animals/build/CMakeFiles/rebuild_cache.dir
+/Users/sushantnigudkar/desktop/phas100/phas100/week3_cpp_exercises/Animals/build/src/CMakeFiles/Animals.dir
+/Users/sushantnigudkar/desktop/phas100/phas100/week3_cpp_exercises/Animals/build/src/CMakeFiles/animalsSpeak.dir
+/Users/sushantnigudkar/desktop/phas100/phas100/week3_cpp_exercises/Animals/build/src/CMakeFiles/edit_cache.dir
+/Users/sushantnigudkar/desktop/phas100/phas100/week3_cpp_exercises/Animals/build/src/CMakeFiles/rebuild_cache.dir
